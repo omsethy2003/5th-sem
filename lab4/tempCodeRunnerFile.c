@@ -1,0 +1,1 @@
+  printf("\nthe total no. of steps taken are : %d\n",steps);
