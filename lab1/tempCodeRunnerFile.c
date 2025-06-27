@@ -1,0 +1,1 @@
+printf("%d , %d, %d, %d",templ,temps,lr,sm);
